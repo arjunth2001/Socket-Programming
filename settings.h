@@ -1,0 +1,4 @@
+#define PORT 8000
+#define BUFFERSIZE 16000
+#define MAX_CONN 3
+#define INPUT_LENGTH 2048
